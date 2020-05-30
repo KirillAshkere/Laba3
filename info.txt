@@ -1,0 +1,4 @@
+Amsterdam;Athens;5;33
+Athens;Baghdad;43;23
+Barcelona;Beijing;68;3
+Baghdad;Beijing;2;99
